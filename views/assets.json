@@ -1,0 +1,8 @@
+{
+  "app": {
+    "js": "http://127.0.0.1:4001/static/app.161ef21fdab0825e8813.bundle.js"
+  },
+  "vendors": {
+    "js": "http://127.0.0.1:4001/static/vendors.161ef21fdab0825e8813.js"
+  }
+}

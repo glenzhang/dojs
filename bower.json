@@ -1,0 +1,25 @@
+{
+  "name": "rainbow",
+  "description": "fanli front-end tools",
+  "main": "index.js",
+  "authors": [
+    "lei.zhang@fanli.com"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "fanli",
+    "front-end"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "homepage": "http://www.fanli.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/src/common/libs",
+    "test",
+    "tests"
+  ]
+}
